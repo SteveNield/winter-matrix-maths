@@ -1,0 +1,22 @@
+{
+  "name": "winter-matrix-maths",
+  "version": "1.0.0",
+  "description": "Collection of common matrix maths operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/*-spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenield/winter-matrix-maths.git"
+  },
+  "author": "Steve Nield - Winter Softworks - steve@wintersoftworks.co.uk - https://stevenield.github.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenield/winter-matrix-maths/issues"
+  },
+  "homepage": "https://github.com/stevenield/winter-matrix-maths#readme",
+  "devDependencies": {
+    "winter-test-setup": "^1.0.0"
+  }
+}
